@@ -1,0 +1,128 @@
+[
+    {
+        "movie_desc_1": "Newly single LA hotshot Amanda and heartbroken London journalist Iris impulsively swap houses for two weeks over Christmas to escape their romantic woes",
+        "movie_desc_2": "A barista discovers her secret royal lineage after a Christmas cookie contest",
+        "correct": 1,
+        "movie_title": "The Holiday",
+        "poster": "The_Holiday.jpeg",
+        "year": 2006,
+        "stars": "Cameron Diaz, Kate Winslet, Jude Law, and Jack Black"
+    },
+    {
+        "movie_desc_1": "After discovering their significant others are siblings, two resentful exes must spend Christmas under one roof — while hiding their romantic history.",
+        "movie_desc_2": "A corporate lawyer inherits a failing cranberry bog in Vermont, and discovers the true meaning of the holidays.",
+        "correct": 1,
+        "movie_title": "Our Little Secret",
+        "poster": "Our_Little_Secret.jpeg",
+        "year": 2024,
+        "stars": "Lindsay Lohan"
+    },
+    {
+        "movie_desc_1": "An old flame resurfaces when Mia's grandmother decides to sell the family windmill.",
+        "movie_desc_2": "A retired ballet dancer must save the Sugarplum Valley reindeer parade after the mayor sprains his ankle.",
+        "correct": 1,
+        "movie_title": "Christmas on Windmill Way",
+        "poster": "Christmas_Windmill_Way.jpeg",
+        "year": 2023,
+        "stars": "nobody I have ever heard of"
+    },
+    {
+        "movie_desc_1": "When a snowstorm strands an archaeologist in a gingerbread-themed B&B...",
+        "movie_desc_2": "Small town boutique owner Bella has an aristocratic new client...",
+        "correct": 2,
+        "movie_title": "A Royal Date for Christmas",
+        "poster": "Royal_Date_For_Christmas.jpeg",
+        "year": 2023,
+        "stars": "Danica McKellar"
+    },
+    {
+        "movie_desc_1": "A talented photographer stuck in a dead-end job inherits an antique Advent calendar that may be predicting the future - and pointing her toward love.",
+        "movie_desc_2": "Assigned to cover the Winter Lights Festival in Cozy Pines, Alaska, a jaded meteorologist finds herself predicting love instead of snowstorms…",
+        "correct": 1,
+        "movie_title": "The Holiday Calendar",
+        "poster": "Holiday_Calendar.jpeg",
+        "year": 2018,
+        "stars": "Kat Graham and Quincy Brown"
+    },
+    {
+        "movie_desc_1": "A young elf mistakes a tiny alien for a Christmas gift, not knowing her new plaything has plans to destroy Earth's gravity — and steal all the presents.",
+        "movie_desc_2": "Disgraced figure skater Bella moves to a snowy mountain village to coach the local hockey team—and finds herself drawn to its rugged captain, Liam.",
+        "correct": 1,
+        "movie_title": "Alien Xmas",
+        "poster": "Alien_Xmas.jpeg",
+        "year": 2020,
+        "stars": "a number of voice actors. It's an animation film"
+    },
+    {
+        "movie_desc_1": "When her Christmas cruise ship gets stuck in the Arctic Circle, free-spirited Penny falls for a grumpy scientist who's studying polar bears.",
+        "movie_desc_2": "When a young widow's magic scarf brings a dashing snowman to life, can he help her rediscover romance, laughter and holiday cheer before he melts away?",
+        "correct": 2,
+        "movie_title": "Hot Frosty",
+        "poster": "Hot_Frosty.png",
+        "year": 2024,
+        "stars": "Lacey Chabert and Dustin Milligan"
+    },
+    {
+        "movie_desc_1": "A former veterinarian turned wreath-maker rescues a runaway reindeer—and ends up stuck hosting a live nativity with the town's least festive mechanic",
+        "movie_desc_2": "To save her parents' small-town nightclub, a Broadway dancer stages an all-male, Christmas-themed revue — and meets a guy with all the right moves.",
+        "correct": 2,
+        "movie_title": "The Merry Gentlemen",
+        "poster": "Merry_Gentlemen.jpeg",
+        "year": 2024,
+        "stars": "Britt Robertson and Chad Michael Murray"
+    },
+    {
+        "movie_desc_1": "Despite working as an elf, Kate doesn't believe in the magic of Christmas. Everything changes when she meets Tom, who brings faith back into her life.",
+        "movie_desc_2": "When a department store Santa calls in sick, a gruff retired wrestler reluctantly steps into the role—and ends up inspiring the whole town.",
+        "correct": 1,
+        "movie_title": "Last Christmas",
+        "poster": "Last_Christmas.jpeg",
+        "year": 2019,
+        "stars": "Emilia Clarke, Henry Golding, Emma Thompson, Michelle Yeoh, and the songs of George Michael"
+    },
+    {
+        "movie_desc_1": "An archaeologist is sent to excavate a rare Christmas artifact in the deserts of Egypt, but the cheerful local guide might hold the key to unlocking its holiday magic.",
+        "movie_desc_2": "A zombie apocalypse threatens the sleepy town of Little Haven at Christmas - forcing Anna and her friends to fight, slash and sing their way to survival.",
+        "correct": 2,
+        "movie_title": "Anna and the Apocalypse",
+        "poster": "Anna_Apocalypse.jpeg",
+        "year": 2017,
+        "stars": "Ella Hunt, Malcolm Cumming, and Sarah Swire"
+    },
+    {
+        "movie_desc_1": "Meteorologist and part-time professor Ethan and his wife Addison, a TV news reporter, must come together to help save others and rescue their missing children when a tornado levels their town on Christmas Eve.",
+        "movie_desc_2": "A workaholic event planner is sent to organize a tropical Christmas party in Hawaii, but the laid-back surfer helping her decorate has his own ideas about holiday traditions.",
+        "correct": 1,
+        "movie_title": "Christmas Twister",
+        "poster": "Christmas_Twister.jpg",
+        "year": 2012,
+        "stars": "Casper Van Dien. Yes. The guy from Starship Troopers. I couldn't believe it either."
+    },
+    {
+        "movie_desc_1": "When a spoiled rich kid hires a hitman to take out Santa Claus, the grizzled and world-weary Chris Cringle must fight back with everything he's got to protect Christmas.",
+        "movie_desc_2": "A secret agent on a mission to stop a holiday heist ends up undercover as Santa in a mall filled with unsuspecting hostages—and one surprisingly resourceful elf.",
+        "correct": 1,
+        "movie_title": "Fatman",
+        "poster": "Fatman.jpeg",
+        "year": 2020,
+        "stars": "Mel Gibson and the amazing Marianne Jean-Baptiste"
+    },
+    {
+        "movie_desc_1": "When a jaded barista finds a love letter hidden in a Christmas brew order, she sets out across the city to reunite two strangers—only to fall for both of them along the way.",
+        "movie_desc_2": "After being released from jail, trans sex worker Sin-Dee and her pal Alexandra storm the streets of LA to get revenge on her fickle boyfriend",
+        "correct": 2,
+        "movie_title": "Tangerine",
+        "poster": "Tangerine.jpeg",
+        "year": 2015,
+        "stars": "Kitana Kiki Rodriguez and Mya Taylor"
+    },
+    {
+        "movie_desc_1": "When a stressed-out dentist agrees to host her small town's gingerbread house competition, she finds herself caught in a sugary feud between two rival bakers with decades of holiday drama.",
+        "movie_desc_2": "Peter asks his best friend to pose as his boyfriend on a Christmas visit home, but their plan — and feelings — change when his family plays matchmaker.",
+        "correct": 2,
+        "movie_title": "Single All the Way",
+        "poster": "Single_All_The_Way.jpeg",
+        "year": 2021,
+        "stars": "Michael Urie, Philemon Chambers, and Jennifer Coolidge"
+    }
+]
