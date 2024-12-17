@@ -1,6 +1,7 @@
 from flask import Flask, jsonify, request, session, render_template, url_for
 import json
 import random
+import os
 
 app = Flask(__name__)
 app.secret_key = 'your_secret_key_here'  # Replace with a secure random string
@@ -80,4 +81,6 @@ def submit_answer():
     })
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    # This allows the app to work locally and on Render
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host='0.0.0.0', port=port)
