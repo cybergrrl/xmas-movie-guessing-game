@@ -2,11 +2,13 @@ from flask import Flask, jsonify, request, session, render_template, url_for
 import json
 import random
 import os
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 app = Flask(__name__)
 app.secret_key = os.environ.get('FLASK_SECRET_KEY')
-if not app.secret_key:
-    raise ValueError("No SECRET_KEY set for Flask application")
 
 # Load quiz data
 def load_quiz_data():
