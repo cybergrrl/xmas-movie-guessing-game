@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Christmas Movie Description Guessing Game</title>
+    <title>Christmas Movie Guessing Game</title>
     <link
       rel="stylesheet"
       href="{{ url_for('static', filename='styles.css') }}"
@@ -46,12 +46,12 @@
         </div>
         <div class="content-column">
           <h2>Round <span id="round-number"></span>/4</h2>
+          <p id="result" class="bold-feedback"></p>
           <h3>Which movie description is real?</h3>
           <p id="desc1"></p>
           <p id="desc2"></p>
           <button id="answer1">Description 1</button>
           <button id="answer2">Description 2</button>
-          <p id="result" class="bold-feedback"></p>
           <p id="score"></p>
           <button id="next-round">Next Round</button>
         </div>
@@ -158,6 +158,13 @@
 
               poster.style.opacity = "1";
               poster.style.transition = "opacity 0.3s ease-in";
+
+              // Scroll to the top of the game container
+              const gameContainer = document.getElementById("game-container");
+              gameContainer.scrollIntoView({
+                behavior: "smooth",
+                block: "start",
+              });
             }, 300);
 
             if (data.game_over) {
@@ -196,7 +203,6 @@
 
           // Force a reflow to ensure the opacity transition works
           placeholder.offsetHeight;
-
           placeholder.style.opacity = "1";
           placeholder.style.transition = "opacity 0.3s ease-in";
           getQuestion();
