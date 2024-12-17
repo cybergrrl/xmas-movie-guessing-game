@@ -4,7 +4,9 @@ import random
 import os
 
 app = Flask(__name__)
-app.secret_key = 'your_secret_key_here'  # Replace with a secure random string
+app.secret_key = os.environ.get('FLASK_SECRET_KEY')
+if not app.secret_key:
+    raise ValueError("No SECRET_KEY set for Flask application")
 
 # Load quiz data
 def load_quiz_data():
